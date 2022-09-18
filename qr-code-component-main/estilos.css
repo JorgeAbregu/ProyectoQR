@@ -1,0 +1,43 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background: hsl(0, 0%, 100%);
+    width: 280px;
+    height: 500px;
+    margin: auto;
+    border-radius: 15px;
+}
+#qr{
+    width: 250px;
+    height: 250px;
+    margin:15px 15px 5px 15px;
+    border-radius: 15px;
+}
+h1{
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin: 10px 25px 10px 25px;
+    font-family: outfit ;
+
+
+}
+p{
+    font-size: 15px;
+    font-family: outfit;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px 25px 10px 25px;
+}
+
+
+
+
+
+
+
